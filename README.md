@@ -6,7 +6,7 @@ An online study group, open to all, dedicated to learning Type Theory.
 
 The initial plan is to read Bob Harper's, Practical Foundations of Programming Languages, 2nd Edition. This book is only available as an [online draft](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf).
 
-The Type Theory Study Group has a [Code of Conduct](https://github.com/type-theory/type-theory-study-group-2015/blob/master/code_of_conduct.md). Please contact one of the organizers if anyone is now following it. Be good to each other and to the community! 
+The Type Theory Study Group has a [Code of Conduct](https://github.com/type-theory/type-theory-study-group-2015/blob/master/code_of_conduct.md). Please contact one of the organizers if anyone is not following it. Be good to each other and to the community! 
 
 ##### Why learn type theory?
 
@@ -20,10 +20,20 @@ Studying type theory is to understand the techniques of types and can be a found
 
 ##### Next meeting
 
+- To be announced. Stay tuned!
+
+##### Past Meetings
+
+###### Meeting 1
+
 - When: November 13th, 6 pm EST
-- Where: [Google Hangouts](https://plus.google.com/hangouts/_/jspha.com/me?authuser=0)
+- Where: Hangouts on Air
 - Material: Ch 1 and 2 of [PFPL](http://www.cs.cmu.edu/~rwh/plbook/2nded.pdf)
 - Discussion Leaders: Joseph Abrahamson, Danny Gratzer, and Craig Stuntz
+- Notetakers: Ilan Godik
+- [Video](https://www.youtube.com/watch?v=5JuOjqCZZTU)
+- [Notes](https://github.com/type-theory/type-theory-study-group-2015/blob/master/materials/meeting-1-notes.pdf)
+- [Questions](https://github.com/type-theory/type-theory-study-group-2015/blob/master/materials/meeting-1-questions.md)
 
 ##### Connect with us
 
